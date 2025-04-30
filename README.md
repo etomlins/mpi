@@ -1,1 +1,2 @@
-Playing around with MPI
+Playing around with MPI and pthreads
+ 
